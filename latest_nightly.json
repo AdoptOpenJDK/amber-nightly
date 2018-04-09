@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10419263",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10419263/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10419263/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/tag/jdk-10%2B43-20180604",
-  "id": 10419263,
-  "tag_name": "jdk-10+43-20180604",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10455605",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10455605/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/10455605/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/tag/jdk-10%2B43-20180904",
+  "id": 10455605,
+  "tag_name": "jdk-10+43-20180904",
   "target_commitish": "master",
-  "name": "jdk-10+43-20180604",
+  "name": "jdk-10+43-20180904",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,13 +28,13 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-04-05T12:03:12Z",
-  "published_at": "2018-04-05T22:32:50Z",
+  "created_at": "2018-04-05T22:33:19Z",
+  "published_at": "2018-04-09T13:16:23Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/6751099",
-      "id": 6751099,
-      "name": "OpenJDK-AMBER_x64_Mac_20180604.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/6782426",
+      "id": 6782426,
+      "name": "OpenJDK-AMBER_x64_Mac_20180904.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -57,14 +57,14 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 205342994,
+      "size": 205344933,
       "download_count": 0,
-      "created_at": "2018-04-05T22:32:50Z",
-      "updated_at": "2018-04-05T22:33:17Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180604/OpenJDK-AMBER_x64_Mac_20180604.tar.gz"
+      "created_at": "2018-04-09T13:16:24Z",
+      "updated_at": "2018-04-09T13:16:55Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180904/OpenJDK-AMBER_x64_Mac_20180904.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/tarball/jdk-10+43-20180604",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/zipball/jdk-10+43-20180604",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/tarball/jdk-10+43-20180904",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/zipball/jdk-10+43-20180904",
   "body": "Nightly Build of jdk-10+43"
 }
