@@ -2611,8 +2611,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180504/OpenJDK-AMBER_x64_Win_20180504.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/6743945",
-        "id": 6743945,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/7069626",
+        "id": 7069626,
         "name": "OpenJDK-AMBER_x64_Win_20180504.zip",
         "label": "",
         "uploader": {
@@ -2636,10 +2636,10 @@
         },
         "content_type": "application/zip",
         "state": "uploaded",
-        "size": 206242086,
-        "download_count": 1,
-        "created_at": "2018-04-05T12:02:46Z",
-        "updated_at": "2018-04-05T12:03:09Z",
+        "size": 206244788,
+        "download_count": 0,
+        "created_at": "2018-05-04T13:29:47Z",
+        "updated_at": "2018-05-04T13:30:25Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180504/OpenJDK-AMBER_x64_Win_20180504.zip"
       }
     ],
