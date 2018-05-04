@@ -2483,8 +2483,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180504/OpenJDK-AMBER_x64_Linux_20180504.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/6743931",
-        "id": 6743931,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/7071084",
+        "id": 7071084,
         "name": "OpenJDK-AMBER_x64_Linux_20180504.tar.gz",
         "label": "",
         "uploader": {
@@ -2508,10 +2508,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 362650242,
+        "size": 362662564,
         "download_count": 0,
-        "created_at": "2018-04-05T12:01:50Z",
-        "updated_at": "2018-04-05T12:02:26Z",
+        "created_at": "2018-05-04T15:28:13Z",
+        "updated_at": "2018-05-04T15:30:35Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-20180504/OpenJDK-AMBER_x64_Linux_20180504.tar.gz"
       },
       {
