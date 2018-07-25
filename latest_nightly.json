@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12075640",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12075640/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12075640/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/tag/jdk-10%2B43-201824071504",
-  "id": 12075640,
-  "node_id": "MDc6UmVsZWFzZTEyMDc1NjQw",
-  "tag_name": "jdk-10+43-201824071504",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12096176",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12096176/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/12096176/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/tag/jdk-10%2B43-201825071504",
+  "id": 12096176,
+  "node_id": "MDc6UmVsZWFzZTEyMDk2MTc2",
+  "tag_name": "jdk-10+43-201825071504",
   "target_commitish": "master",
-  "name": "jdk-10+43-201824071504",
+  "name": "jdk-10+43-201825071504",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-07-23T16:17:07Z",
-  "published_at": "2018-07-24T13:32:08Z",
+  "created_at": "2018-07-24T13:33:33Z",
+  "published_at": "2018-07-25T13:33:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/7988928",
-      "id": 7988928,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc5ODg5Mjg=",
-      "name": "OpenJDK-AMBER_x64_Windows_201824071504.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/releases/assets/8004008",
+      "id": 8004008,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDgwMDQwMDg=",
+      "name": "OpenJDK-AMBER_x64_Windows_201825071504.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,14 +61,14 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 206241320,
+      "size": 206240900,
       "download_count": 0,
-      "created_at": "2018-07-24T13:32:09Z",
-      "updated_at": "2018-07-24T13:33:29Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-201824071504/OpenJDK-AMBER_x64_Windows_201824071504.zip"
+      "created_at": "2018-07-25T13:33:36Z",
+      "updated_at": "2018-07-25T13:33:52Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-amber-nightly/releases/download/jdk-10%2B43-201825071504/OpenJDK-AMBER_x64_Windows_201825071504.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/tarball/jdk-10+43-201824071504",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/zipball/jdk-10+43-201824071504",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/tarball/jdk-10+43-201825071504",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-amber-nightly/zipball/jdk-10+43-201825071504",
   "body": "Nightly Build of jdk-10+43"
 }
